@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/composer.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/create.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/delete.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/read.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/update.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/Config.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/Models/User.php" charset="UTF-8" />
+  </component>
+</project>
